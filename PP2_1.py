@@ -2,10 +2,17 @@
 
 def q1(): 
   #Write Assignment code here
+  num=int(input("Input a number: "))
+if num < num/2:
+  num=num%2
+
+  print("num is even")
+  
 
 
 def q2(): 
   #Write Assignment code here
+  print()
 
 
 
