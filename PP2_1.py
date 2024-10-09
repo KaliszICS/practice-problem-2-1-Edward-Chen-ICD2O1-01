@@ -3,8 +3,7 @@
 def q1(): 
   #Write Assignment code here
   num=int(input("Input a number: "))
-if num < num/2:
-  num=num%2
+if num % 2:
 
   print("num is even")
   
